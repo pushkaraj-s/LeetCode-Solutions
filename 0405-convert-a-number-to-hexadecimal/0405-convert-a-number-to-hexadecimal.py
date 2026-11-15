@@ -1,8 +1,8 @@
 class Solution:
     def toHex(self, num: int) -> str:
         # Number to Decimal
-        # In general terms we keep diving no by 16 untill we reach value less than 16
-        # Let's tackel +ve no's first
+        # In general terms we keep diving no by 16 until we reach value less than 16
+        # But here we will solve this question using bitwise operations
         res = []
         idx = 0
         shift = 28
