@@ -1,25 +1,42 @@
 void rotate(int* nums, int numsSize, int k) {
-    // K is non negative
-    // Create new array paste (numsSize - 1 - k) to numsSize elements at start
-    // Place remaining elements after that
+    // Let's see how can we solve this using 2 pointer approach
+    // This question can be solved in O(1) space, by reversing the array
+    
     if(k > numsSize){
         k = k % numsSize;
-    } else if(k == numsSize){
+    } else if (k == numsSize){
         return;
     }
 
-    int* temp = malloc(sizeof(int)*numsSize);
-    int idx = 0;
+    int p1 = 0;
+    int p2 = numsSize - 1;
 
-    for(int i=numsSize-k; i < numsSize; i++){
-        temp[idx++] = nums[i];
+    while(p1 < p2){
+        int temp = nums[p1];
+        nums[p1] = nums[p2];
+        nums[p2] = temp;
+        p1++;
+        p2--;
     }
 
-    for(int i=0; i < numsSize-k; i++){
-        temp[idx++] = nums[i];
+    p1 = 0;
+    p2 = k - 1;
+    while(p1 < p2){
+        int temp = nums[p1];
+        nums[p1] = nums[p2];
+        nums[p2] = temp;
+        p1++;
+        p2--;
     }
 
-    for(int i=0; i < numsSize; i++){
-        nums[i] = temp[i];
+    p1 = k;
+    p2 = numsSize - 1;
+    while(p1 < p2){
+        int temp = nums[p1];
+        nums[p1] = nums[p2];
+        nums[p2] = temp;
+        p1++;
+        p2--;
     }
+
 }
