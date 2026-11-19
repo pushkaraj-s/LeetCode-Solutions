@@ -20,6 +20,7 @@ Each folder is named after the problem number and title and contains the solutio
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0461-hamming-distance](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0461-hamming-distance/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
