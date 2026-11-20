@@ -34,6 +34,7 @@ Each folder is named after the problem number and title and contains the solutio
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Two Pointers
@@ -49,4 +50,8 @@ Each folder is named after the problem number and title and contains the solutio
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 <!---LeetCode Topics End-->
