@@ -12,6 +12,7 @@ Each folder is named after the problem number and title and contains the solutio
 | [0189-rotate-array](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
