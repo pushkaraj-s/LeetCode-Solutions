@@ -25,12 +25,14 @@ Each folder is named after the problem number and title and contains the solutio
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0704-binary-search](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0198-house-robber](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -55,4 +57,8 @@ Each folder is named after the problem number and title and contains the solutio
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
