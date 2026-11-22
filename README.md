@@ -26,6 +26,7 @@ Each folder is named after the problem number and title and contains the solutio
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0704-binary-search](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -53,6 +54,7 @@ Each folder is named after the problem number and title and contains the solutio
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +63,17 @@ Each folder is named after the problem number and title and contains the solutio
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
