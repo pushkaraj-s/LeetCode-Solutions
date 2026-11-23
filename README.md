@@ -30,6 +30,7 @@ Each folder is named after the problem number and title and contains the solutio
 | [0189-rotate-array](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0704-binary-search](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0735-asteroid-collision](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,4 +77,12 @@ Each folder is named after the problem number and title and contains the solutio
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
