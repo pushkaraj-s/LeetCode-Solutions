@@ -29,6 +29,7 @@ Each folder is named after the problem number and title and contains the solutio
 | [0169-majority-element](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0704-binary-search](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 ## Dynamic Programming
@@ -85,4 +86,8 @@ Each folder is named after the problem number and title and contains the solutio
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
