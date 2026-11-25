@@ -31,6 +31,7 @@ Each folder is named after the problem number and title and contains the solutio
 | [0198-house-robber](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0704-binary-search](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0706-design-hashmap](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0735-asteroid-collision](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@ Each folder is named after the problem number and title and contains the solutio
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0706-design-hashmap](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -57,6 +59,7 @@ Each folder is named after the problem number and title and contains the solutio
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0706-design-hashmap](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +93,12 @@ Each folder is named after the problem number and title and contains the solutio
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
