@@ -30,6 +30,7 @@ Each folder is named after the problem number and title and contains the solutio
 | [0189-rotate-array](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0605-can-place-flowers](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0704-binary-search](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0735-asteroid-collision](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -101,4 +102,8 @@ Each folder is named after the problem number and title and contains the solutio
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0605-can-place-flowers](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
