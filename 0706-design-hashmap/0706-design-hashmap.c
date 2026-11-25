@@ -1,39 +1,101 @@
-#define MAP_SIZE 1000001
+#define MAP_SIZE 1000
 
-// Basic implementation of HashMap using static Array
+typedef struct Node{
+    int key;
+    int value;
+    struct Node* next;
+} Node;
 
 typedef struct {
-    int map[MAP_SIZE];
-    
+    Node* buckets[MAP_SIZE];
 } MyHashMap;
 
+// Since multiple Keys can produce same index, 
+// We can maintain Linked list to handle collisions
 
 MyHashMap* myHashMapCreate() {
-    MyHashMap* obj = malloc(sizeof(MyHashMap));
-    if(obj == NULL){
-        return NULL;
-    }
+    MyHashMap* map = malloc(sizeof(MyHashMap));
+    if(map == NULL) return NULL;
 
     for(int i=0; i < MAP_SIZE; i++){
-        obj->map[i] = -1;
+        map->buckets[i] = NULL;
     }
 
-    return obj;
+    return map;
 }
 
 void myHashMapPut(MyHashMap* obj, int key, int value) {
-    obj->map[key] = value;
+    int index = key % MAP_SIZE;
+
+    Node* current = obj->buckets[index];
+    while(current != NULL){
+        if(current->key == key){
+            current->value = value;
+            return;
+        }
+
+        current = current->next;
+    }
+
+    Node* newNode = malloc(sizeof(Node));
+
+    newNode->key = key;
+    newNode->value = value;
+    newNode->next = obj->buckets[index];
+
+    obj->buckets[index] = newNode;
 }
 
 int myHashMapGet(MyHashMap* obj, int key) {
-    return obj->map[key];
+    int index = key % MAP_SIZE;
+
+    Node* current = obj->buckets[index];
+
+    while(current != NULL){
+        if(current->key == key){
+            return current->value;
+        }
+
+        current = current->next;
+    }
+
+    return -1;
 }
 
 void myHashMapRemove(MyHashMap* obj, int key) {
-    obj->map[key] = -1;
+    int index = key % MAP_SIZE;
+
+    Node* current = obj->buckets[index];
+    Node* previous = NULL;
+
+    while(current != NULL){
+        if(current->key == key){
+            if(previous == NULL){
+                obj->buckets[index] = current->next;
+            } else {
+                previous->next = current->next;
+            }
+
+            free(current);
+            return;
+        }
+
+        previous = current;
+        current = current->next;
+    }
 }
 
 void myHashMapFree(MyHashMap* obj) {
+    for(int i=0; i < MAP_SIZE; i++){
+        Node* current = obj->buckets[i];
+
+        while(current != NULL){
+            Node* temp = current;
+            current = current->next;
+            free(temp);
+        }
+    }
+
     free(obj);
 }
 
