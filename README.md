@@ -29,6 +29,7 @@ Each folder is named after the problem number and title and contains the solutio
 | [0169-majority-element](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0217-contains-duplicate](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0605-can-place-flowers](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0704-binary-search](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -60,6 +61,7 @@ Each folder is named after the problem number and title and contains the solutio
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0706-design-hashmap](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -74,6 +76,7 @@ Each folder is named after the problem number and title and contains the solutio
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
