@@ -16,6 +16,7 @@ Each folder is named after the problem number and title and contains the solutio
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0038-count-and-say](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
