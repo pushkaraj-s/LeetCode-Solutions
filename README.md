@@ -32,6 +32,7 @@ Each folder is named after the problem number and title and contains the solutio
 | [0217-contains-duplicate](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0605-can-place-flowers](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [0621-task-scheduler](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0704-binary-search](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0735-asteroid-collision](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -62,6 +63,7 @@ Each folder is named after the problem number and title and contains the solutio
 | [0160-intersection-of-two-linked-lists](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0621-task-scheduler](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0706-design-hashmap](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -77,10 +79,12 @@ Each folder is named after the problem number and title and contains the solutio
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0621-task-scheduler](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0621-task-scheduler](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,4 +113,9 @@ Each folder is named after the problem number and title and contains the solutio
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [0621-task-scheduler](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0621-task-scheduler](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 <!---LeetCode Topics End-->
