@@ -4,15 +4,16 @@ public:
         // Let's take 2 pointers
         int st = 0;
         int end = nums.size() - 1;
-        int mid = (st + end) / 2;
+
 
         while(st <= end){
+            // Optimized mid calculation to avoid int overflow
+            int mid = st + (end - st) / 2;
+
             if(target < nums[mid]){
                 end = mid - 1;
-                mid = (st + end) / 2;
             } else if (target > nums[mid]){
                 st = mid + 1;
-                mid = (st + end) / 2;
             } else if (target == nums[mid]){
                 return mid;
             }
