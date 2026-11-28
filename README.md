@@ -37,6 +37,7 @@ Each folder is named after the problem number and title and contains the solutio
 | [0704-binary-search](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0735-asteroid-collision](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@ Each folder is named after the problem number and title and contains the solutio
 | [0217-contains-duplicate](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0621-task-scheduler](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0706-design-hashmap](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pushkaraj-s/LeetCode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
