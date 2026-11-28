@@ -12,15 +12,14 @@
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
-        // To traverse a tree always think in terms of recursion
-        // Base case
         if(root == NULL){
             return 0;
         }
 
+        // Recursive call to calculate height of left and right subtree
         int leftHt = maxDepth(root->left);
         int rightHt = maxDepth(root->right);
 
-        return max(leftHt, rightHt) + 1;
+        return max(leftHt, rightHt)+1;
     }
 };
